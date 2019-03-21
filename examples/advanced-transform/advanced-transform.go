@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/peterbourgon/diskv"
+	"github.com/arnottcr/diskv"
 )
 
 func AdvancedTransformExample(key string) *diskv.PathKey {

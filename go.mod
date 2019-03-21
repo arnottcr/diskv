@@ -1,4 +1,4 @@
-module github.com/peterbourgon/diskv
+module github.com/arnottcr/diskv
 
 go 1.12
 
